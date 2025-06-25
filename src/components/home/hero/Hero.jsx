@@ -5,7 +5,7 @@ import "./hero.css"
 const Hero = () => {
   return (
     <>
-      <section className='hero' style={{ backgroundImage: "url('/images/banner.png')", backgroundRepeat: 'no-repeat', backgroundPosition: 'center', backgroundSize: 'cover', height: '90vh', width: '100%' }}>
+      <section className='hero' style={{ backgroundImage: "url('/real-estate-app/images/houses.avif')", backgroundRepeat: 'no-repeat', backgroundPosition: 'center', backgroundSize: 'cover', height: '90vh', width: '100%' }}>
         <div className='container'>
           <Heading title='Search Your Next Home ' subtitle='Find new & featured property located in your local city.' />
 
